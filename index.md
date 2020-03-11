@@ -10,8 +10,8 @@ humandate: "21 - 23 April 2020"    # human-readable dates for the workshop (e.g.
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-04-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-04-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Kathryn Napier", "TBD"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: [TBD]
+instructor: ["Rebecca Lange", "Cara Kreck", "Behrouz Beheshti", "Jamiu Ekundayo",  "Kathryn Napier", "Lyron Winderbaum"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Kevin Buckley", "Shih Ching Fu", "Lyron Winderbaum", "Kylie Munyard", "Darcy Jones", "Jamiu Ekundayo", "Peter Kraus", "Rebecca Lange", "Johnny Lo", "Nicola Armstrong"]
 email: ["curtinic@curtin.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "94334564221"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
