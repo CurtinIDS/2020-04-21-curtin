@@ -1,11 +1,11 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "Curtin University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Curtin University (Room TBD), Bentley Campus, Bentley, 6102"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Curtin University (Building 501, Room 117), Bentley Campus, Bentley, 6102"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "-32.007068"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "115.894011"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "-32.00842"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "115.89336"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "21 - 23 April 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-04-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
